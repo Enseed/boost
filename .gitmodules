@@ -1,3 +1,9 @@
 [submodule "libs/boost"]
 	path = libs/boost
 	url = https://github.com/boostorg/boost.git
+[submodule "libs/bzip2"]
+	path = libs/bzip2
+	url = https://github.com/Enseed/bzip2.git
+[submodule "libs/zlib"]
+	path = libs/zlib
+	url = https://github.com/madler/zlib.git
