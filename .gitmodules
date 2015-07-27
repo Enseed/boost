@@ -7,3 +7,9 @@
 [submodule "libs/zlib"]
 	path = libs/zlib
 	url = https://github.com/madler/zlib.git
+[submodule "lib"]
+	path = lib
+	url = https://stash.dsotm.dyndns.org/scm/tp/boost_lib.git
+[submodule "include/boost"]
+	path = include/boost
+	url = https://stash.dsotm.dyndns.org/scm/tp/boost_include.git
